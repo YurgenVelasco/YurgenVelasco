@@ -1,130 +1,110 @@
-# ¡Hola! Soy Yurgen Velasco 👋
+ <div align="center">
 
-### 💻 Desarrollador en formación | SENA ADSO | Backend Developer en construcción
+# 👋 ¡Hola! Soy Yurgen Velasco
 
-¡Bienvenido a mi perfil de GitHub!
+### **Software Developer in Training | SENA ADSO**
 
-Soy **Yurgen Andrey Velasco Rojas**, aprendiz de **Análisis y Desarrollo de Software (ADSO) en el SENA**, apasionado por la programación, la tecnología y la construcción de soluciones que realmente aporten valor.
+`Software Development` · `Backend` · `Web Development` · `Databases` · `Technology Enthusiast`
 
-Actualmente estoy fortaleciendo mis conocimientos en desarrollo backend, arquitectura de software, bases de datos y desarrollo web. Me gusta entender cómo funcionan las cosas, enfrentar nuevos retos y convertir ideas en proyectos reales.
+🚀 **Apasionado por aprender, experimentar y construir soluciones tecnológicas.**
 
-Mi objetivo es crecer como desarrollador de software, construir aplicaciones de calidad y participar en proyectos que me permitan aprender, aportar y seguir evolucionando profesionalmente.
+📍 Bucaramanga, Santander, Colombia 🇨🇴
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-YurgenVelasco-181717?style=for-the-badge&logo=github)](https://github.com/YurgenVelasco)
 
-## 🚀 Sobre mí
-
-- 🎓 Aprendiz de **Análisis y Desarrollo de Software (ADSO)** en el SENA.
-- 💻 Enfocado en el desarrollo backend y la lógica de programación.
-- 🧠 Aprendiendo constantemente sobre arquitectura, buenas prácticas y desarrollo de software.
-- 🛠️ Me gusta trabajar en proyectos que resuelvan problemas reales.
-- 🗄️ Interesado en el diseño, desarrollo y gestión de bases de datos.
-- 🐧 Usuario de Linux y entusiasta del software y las herramientas de desarrollo.
-- 🤝 Disfruto compartir conocimientos, colaborar y aprender de otros desarrolladores.
-- 🎯 Mi meta es convertirme en un desarrollador backend sólido, con capacidad para diseñar y construir sistemas completos.
-
-> Creo que un buen desarrollador no es quien solamente escribe código, sino quien entiende el problema, piensa en una solución y construye algo que realmente funciona.
+</div>
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 👨‍💻 Sobre mí
 
-Estas son algunas de las tecnologías con las que trabajo o estoy fortaleciendo mis conocimientos.
+Soy **Yurgen Andrey Velasco Rojas**, aprendiz de Análisis y Desarrollo de Software (ADSO) en el Servicio Nacional de Aprendizaje — SENA.
+
+Me considero una persona curiosa, autodidacta y apasionada por la tecnología. Mi interés por el desarrollo de software va más allá de aprender un lenguaje: disfruto investigar, experimentar con nuevas herramientas y comprender cómo funcionan las cosas.
+
+He explorado diferentes lenguajes de programación, tecnologías web, bases de datos, desarrollo móvil y plataformas en la nube. Mi principal fortaleza actualmente está en **C# y el ecosistema .NET**, aunque me gusta mantenerme abierto a diferentes tecnologías y entornos.
+
+No tengo miedo de enfrentarme a una tecnología desconocida. Si un proyecto requiere aprender algo nuevo, estoy dispuesto a investigar, experimentar y encontrar la manera de utilizarlo.
+
+Creo que el crecimiento de un desarrollador depende tanto de sus conocimientos como de su curiosidad, adaptabilidad y capacidad para resolver problemas.
+
+---
+
+## 🛠️ Stack tecnológico
 
 ### Lenguajes de programación
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts" />
 </p>
 
-### Backend y desarrollo web
+- **C#:** mi principal fortaleza y tecnología de mayor dominio.
+- **Java:** programación orientada a objetos y desarrollo de aplicaciones.
+- **JavaScript:** fundamentos y desarrollo web.
+- **TypeScript:** conocimientos básicos y exploración.
+- **SQL:** consultas, relaciones y gestión de bases de datos.
+
+### Desarrollo web
 
 <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,dotnet" />
 </p>
+
+- HTML5 y CSS3.
+- JavaScript y TypeScript.
+- React.
+- Node.js.
+- ASP.NET Core y .NET.
 
 ### Bases de datos
 
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlserver" />
 </p>
 
-### Herramientas y entorno de desarrollo
+- Microsoft SQL Server.
+- MySQL.
+- PostgreSQL.
+- Firebase.
+
+### Desarrollo móvil, cloud y entornos
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,azure,linux,docker,git,github,vscode,visualstudio" />
 </p>
 
----
+- Android Studio.
+- Microsoft Azure.
+- Linux.
+- Docker.
+- Git y GitHub.
+- Visual Studio y Visual Studio Code.
 
-## 📂 Proyectos destacados
-
-### 💰 ContaGo — Gestión financiera para pequeños negocios
-
-Una plataforma web personal que estoy desarrollando con el objetivo de ayudar a pequeños negocios y emprendimientos a organizar sus finanzas y administrar mejor sus operaciones.
-
-**¿Qué busco construir?**
-
-- 📊 Dashboard con indicadores financieros.
-- 💵 Gestión de ingresos y egresos.
-- 🗂️ Administración de categorías y movimientos.
-- 🏪 Gestión de diferentes emprendimientos.
-- 👤 Perfiles y configuración de negocios.
-- 🔐 Autenticación y protección de información.
-
-ContaGo es un proyecto en el que busco aplicar mis conocimientos de desarrollo web, bases de datos, seguridad y arquitectura de software.
+*Mi experiencia y nivel de dominio varían según la tecnología. Algunas forman parte de mi experiencia práctica y otras continúan en proceso de aprendizaje.*
 
 ---
+
+## 🚀 Proyectos destacados
+
+### 💰 ContaGo — Proyecto personal
+
+Plataforma orientada a pequeños negocios y emprendimientos, diseñada para facilitar la organización financiera y administrativa.
+
+**Objetivo:** ofrecer herramientas para gestionar ingresos, gastos, categorías y emprendimientos desde una solución centralizada.
+
+**Interés técnico:** desarrollo web, lógica de negocio, gestión de datos y construcción de aplicaciones.
+
+[![Repositorio](https://img.shields.io/badge/Ver_repositorio-181717?style=flat-square&logo=github)](https://github.com/YurgenVelasco/ContaGo)
 
 ### 🥋 UGP — Ultimate Grappling Promotion
 
-Una plataforma web enfocada en la gestión y promoción de eventos de grappling y Brazilian Jiu-Jitsu.
+Proyecto de software orientado a la gestión y promoción de eventos de grappling y Brazilian Jiu-Jitsu.
 
-Este proyecto representa uno de mis mayores retos de desarrollo, porque involucra diferentes módulos y procesos de negocio.
+Contempla procesos como administración de eventos, gestión de usuarios, entradas, selección de asientos, pagos y validación mediante códigos QR.
 
-**Funcionalidades que estoy trabajando en el proyecto:**
+**Objetivo:** construir una plataforma que integre diferentes procesos de negocio en una experiencia digital.
 
-- 🎟️ Gestión de eventos y entradas.
-- 💺 Selección de zonas y asientos numerados.
-- 💳 Integración de pagos electrónicos.
-- 📩 Entrega digital de entradas.
-- 📱 Validación de entradas mediante códigos QR.
-- 👥 Gestión de usuarios y roles.
-- 🛠️ Panel administrativo para gestionar el contenido y los eventos.
-
-UGP me permite profundizar en arquitectura, diseño de bases de datos, seguridad, lógica de negocio y desarrollo de aplicaciones completas.
-
----
-
-## 📚 Actualmente aprendiendo
-
-Mi enfoque principal está en fortalecer mis habilidades como desarrollador backend.
-
-Estoy trabajando especialmente en:
-
-- C# y programación orientada a objetos.
-- ASP.NET Core y desarrollo de aplicaciones web.
-- Diseño de arquitecturas de software.
-- Bases de datos relacionales y consultas SQL.
-- Entity Framework Core.
-- APIs y servicios backend.
-- Git, Linux y herramientas de desarrollo.
-- Seguridad, autenticación y autorización.
-- Buenas prácticas y calidad del código.
-
-También estoy explorando nuevas tecnologías y herramientas que me permitan mejorar mi productividad y construir software cada vez más profesional.
+*Proyecto académico y de desarrollo de software.*
 
 ---
 
@@ -132,42 +112,52 @@ También estoy explorando nuevas tecnologías y herramientas que me permitan mej
 
 **Servicio Nacional de Aprendizaje — SENA**
 
-Tecnólogo en formación en Análisis y Desarrollo de Software (ADSO).
+- Programa: Análisis y Desarrollo de Software (ADSO).
+- Formación en programación, bases de datos, análisis y construcción de software.
+- Aprendizaje práctico mediante proyectos y retos tecnológicos.
 
-Mi formación me ha permitido desarrollar conocimientos en:
+### Formación complementaria
 
-- Análisis y levantamiento de requerimientos.
-- Diseño y construcción de aplicaciones.
-- Programación orientada a objetos.
-- Bases de datos.
-- Desarrollo de software.
-- Formulación y desarrollo de proyectos.
-
-También cuento con formación complementaria en informática, Excel, primeros auxilios, formulación de proyectos de investigación y construcción de prototipos mecánicos.
-
----
-
-## 🌱 Mi filosofía
-
-Estoy convencido de que el crecimiento en programación requiere disciplina, curiosidad y constancia.
-
-No busco aprender tecnologías solamente por conocerlas. Mi objetivo es comprenderlas, aplicarlas y construir proyectos que demuestren lo que soy capaz de hacer.
-
-Cada error es una oportunidad para aprender. Cada proyecto es una oportunidad para mejorar.
-
-**Todavía estoy construyendo mi camino, pero tengo claro hacia dónde quiero llegar.**
+- Primeros Auxilios.
+- Informática: Word, Excel e Internet.
+- Excel básico e intermedio.
+- Formulación de Proyectos de Investigación Formativa.
+- Construcción de Prototipos Mecánicos.
 
 ---
 
-## 🤝 Conectemos
+## 🧠 Mi mentalidad de aprendizaje
 
-Estoy abierto a conocer desarrolladores, aprender de la comunidad y participar en oportunidades que me permitan seguir creciendo profesionalmente.
+Muchas de las cosas que he aprendido han nacido de pequeñas preguntas y curiosidades que aparecen mientras estudio o desarrollo.
 
-Si te interesa alguno de mis proyectos, tienes alguna sugerencia o simplemente quieres hablar de programación, ¡será un gusto conectar contigo!
+Me gusta investigar por mi cuenta, probar alternativas y descubrir conceptos que inicialmente no conocía.
+
+No quiero limitarme a utilizar las herramientas que ya domino. Quiero enfrentarme a nuevas tecnologías, entenderlas y aprender a utilizarlas cuando los retos lo requieran.
+
+Para mí, equivocarse, investigar y volver a intentarlo también forman parte del desarrollo.
 
 ---
 
-<p align="center">
-  <b>Construyendo mi futuro, una línea de código a la vez. 🚀</b>
-</p>
+## 🎯 Mi visión profesional
 
+Tengo una meta ambiciosa: **llegar a ser uno de los mejores desarrolladores de software de Colombia.**
+
+Quiero construir una carrera basada en el conocimiento, la disciplina, la curiosidad y la capacidad de aportar soluciones que generen valor.
+
+No busco ser reconocido únicamente por lo que pueda conseguir económicamente, sino por lo que sea capaz de aprender, construir, compartir y aportar a otras personas.
+
+Sé que todavía tengo mucho por descubrir y precisamente eso me motiva a seguir avanzando.
+
+---
+
+<div align="center">
+
+### 💭 Mi filosofía
+
+> La curiosidad me impulsa a aprender.  
+> Los retos me enseñan a crecer.  
+> Y construir es mi manera de demostrarlo.
+
+**Always curious. Always learning. Always building.** 🚀
+
+</div>
